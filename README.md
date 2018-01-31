@@ -1,0 +1,2 @@
+# Comments on: Sampling
+[Krippendorff, Klaus. 2004. Content Analysis: An Introduction to its Methodology. Thousand Oaks, CA: Sage: “Sampling” 111-124.](('https://canvas.uchicago.edu/courses/13021/files/1170184/download?wrap=1',))
